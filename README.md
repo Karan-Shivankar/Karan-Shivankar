@@ -1,3 +1,3 @@
-# Shubh-Gupta
+# Karan Shivankar
 Personal Portfolio
-https://quietcod.github.io/Shubh-Gupta/
+https://karan-shivankar.github.io/Karan-Shivankar/
